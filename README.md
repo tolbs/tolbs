@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tolbs
-- 👀 I’m interested in anything computer science related but especially interested in cybersecurity!
-- 🌱 I’m currently learning Python by creating a Discord bot.
-- 💞️ I’m looking to collaborate on any interesting project!
-- 📫 How to reach me: hello@tolby.codes
+- 👀 I’m interested in anything computer science related but especially in cryptocurrency!
+- 🌱 I’m currently learning Solidity and Rust!
+- 💞️ I’m looking to collaborate on any interesting project in the web3 space.
+- 📫 How to reach me: tolby.lam@gmail.com
 
 <!---
 tolbs/tolbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
