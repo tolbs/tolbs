@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tolbs
 - 👀 I’m interested in anything computer science related but especially in cryptocurrency!
-- 🌱 I’m currently learning Solidity and Rust!
-- 💞️ I’m looking to collaborate on any interesting project in the web3 space.
+- 🌱 I’m currently learning R!
+- 💞️ I’m looking to collaborate on any interesting projects in the web3 space.
 - 📫 How to reach me: tolby.lam@gmail.com
 
 <!---
