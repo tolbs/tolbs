@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tolbs
 - 👀 I’m interested in anything computer science related but especially in cryptocurrency!
-- 🌱 I’m currently learning React and Solidity!
+- 🌱 I’m currently learning React, Redux, Redux-Saga, and Solidity!
 - 💞️ I’m looking to collaborate on any interesting projects in the web3 space.
-- 📫 How to reach me: tolby.lam@gmail.com
+- 📫 How to reach me: tolby@duck.com
 
 <!---
 tolbs/tolbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
