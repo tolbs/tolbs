@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tolbs
-- 👀 I’m interested in anything computer science related but especially in digital assets and crypto!
-- 💞️ I’m looking to collaborate on any interesting projects in the crypto space.
+- 👀 My current work is in UI engineering
+- 💞️ I’m currently working with microcontrollers in my free time and open to collaboration
 - 📫 How to reach me: tolby@duck.com
 
 <!---
